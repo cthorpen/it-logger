@@ -2,24 +2,17 @@
   "logs": [
     {
       "id": 1,
-      "message": "Changed hard drive on workstation 001",
-      "attention": false,
-      "date": "07-13-2022",
-      "tech": "Mike Hawk"
+      "message": "harddrive on machine 069 down again",
+      "attention": true,
+      "tech": "Gabe Itch",
+      "date": "2022-07-14T18:19:51.632Z"
     },
     {
       "id": 2,
-      "message": "Workstation 069 not posting",
-      "attention": true,
-      "date": "07-13-2022",
-      "tech": "Peter File"
-    },
-    {
-      "id": 3,
-      "message": "Changed memory on workstation 420",
+      "message": "fixed computer 069",
       "attention": false,
-      "date": "07-13-2022",
-      "tech": "Gabe Itch"
+      "tech": "Peter File",
+      "date": "2022-07-14T18:19:27.051Z"
     }
   ],
   "techs": [
