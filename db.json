@@ -5,14 +5,14 @@
       "message": "harddrive on machine 069 down again",
       "attention": true,
       "tech": "Gabe Itch",
-      "date": "2022-07-14T18:19:51.632Z"
+      "date": "2022-07-14T19:06:22.396Z"
     },
     {
       "id": 2,
       "message": "fixed computer 069",
       "attention": false,
       "tech": "Peter File",
-      "date": "2022-07-14T18:19:27.051Z"
+      "date": "2022-07-14T19:06:19.894Z"
     }
   ],
   "techs": [
